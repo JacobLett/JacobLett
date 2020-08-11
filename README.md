@@ -1,16 +1,17 @@
-### Hi there 👋
+# HubSpot CMS Developer and Website Designer 
+## Jacob Lett
 
-<!--
-**JacobLett/JacobLett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi my name is Jacob. I have been a web designer / developer for the past 10+ years. I am still learning and enjoy helping others learn as well. I have worked in various corporate settings and as a freelancer.
 
-Here are some ideas to get you started:
+I earned a bachelors in graphic design around the time CSS and web standards were just starting to take hold. My primary focus was print design but gradually began doing more web projects. Then in 2009 I got my first job as a web developer writing a ton of CSS and realizing I had a long journey of learning ahead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to web design and frontend development, I have experience with SEO, PPC, Google Analytics, email marketing, and creating digital products to earn side income. I have primarily focused on marketing based web development to build landing pages, email templates, CMS themes, and branding third party sites.
+
+I am currently trying to improve my skills with JavaScript and backend technologies so that I am able to build my own web applications from scratch.
+
+Technologies I enjoy working with include: HubSpot CMS, WordPress CMS, Shopify, Bootstrap 5, CSS/SCSS, and JavaScript.
+
+### Recent Projects
+- [Bootstrap Books for Beginners](https://bootstrapcreative.com/web-design-books/?utm_source=github-profile)
+- [HubSpot CMS Landing Page and Email Templates](https://bootstrapcreative.com/shop/?utm_source=github-profile)
+- [Freelance HubSpot CMS Development Services](https://bootstrapcreative.com/hubspot-designer/?utm_source=github-profile)
