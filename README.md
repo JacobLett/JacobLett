@@ -1,4 +1,4 @@
-# HubSpot CMS Developer and Website Designer 
+# Digital Marketing & Web Design Specialist
 ## Jacob Lett
 
 Hi my name is Jacob. I have been a web designer / developer for the past 10+ years. I am still learning and enjoy helping others learn as well. I have worked in various corporate settings and as a freelancer.
