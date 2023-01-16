@@ -9,7 +9,7 @@ In addition to web design and frontend development, I have experience with SEO, 
 
 Technologies I enjoy working with include: HubSpot CMS, WordPress CMS, Shopify, Bootstrap 5, CSS/SCSS, and JavaScript.
 
-[**Connect on linkedin**](https://www.linkedin.com/in/jacoblett/)
+[**Subscribe to My YouTube Channel**](https://www.youtube.com/c/Bootstrapcreative?sub_confirmation=1)
 
 ### Recent Projects
 - [HubSpot CMS Landing Page Templates](https://bootstrapcreative.com/product-category/hubspot-landing-page-templates/?utm_source=github-profile)
