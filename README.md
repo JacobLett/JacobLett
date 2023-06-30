@@ -11,7 +11,7 @@ Technologies I enjoy working with include: HubSpot CMS, WordPress CMS, Shopify, 
 
 ### Connect
 - [**Follow Me on LinkedIn**](https://www.linkedin.com/in/jacoblett/)
-- [**View My HubSpot Marketplace Themes**]([https://www.linkedin.com/in/jacoblett/](https://bootstrapcreative.com/shop/)
+- [**View My HubSpot Marketplace Themes**](https://www.linkedin.com/in/jacoblett/](https://bootstrapcreative.com/shop/)
 - [**Subscribe to My YouTube Channel**](https://www.youtube.com/c/Bootstrapcreative)
 
 ### Recent Projects
